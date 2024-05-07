@@ -1,0 +1,22 @@
+#container{
+    width: 20%;
+    margin: 50px auto;
+    background-color: black;
+    padding-bottom: 3px;
+
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+}
+#footer{
+    color: white;
+    text-align: center;
+}
+i{
+    font-size: 12px;
+}
+#icon1,#icon2{
+    color: yellow;
+    
+}
